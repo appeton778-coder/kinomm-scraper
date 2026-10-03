@@ -31,28 +31,33 @@ def extract_movie_details():
                 
                 # --- Image Proxy ထည့်သွင်းခြင်း ---
                 original_poster = item.get("posterUrl", "")
-                # URL ကို Proxy ဖြတ်သန်းပြီး ရယူမည် (Myanmar ISP Block ကို ကျော်ဖြတ်နိုင်ရန်)
                 proxy_poster = f"https://images.weserv.nl/?url={urllib.parse.quote(original_poster)}" if original_poster else ""
                 
                 clean_movies.append({
                     "title": item.get("title", "Unknown"),
                     "type": item.get("type", "movie"),
                     "category": item.get("category", "Unknown"),
-                    "posterUrl": proxy_poster,  # Proxy URL ကို အသုံးပြုမည်
+                    "year": item.get("year", "Unknown"),
+                    "posterUrl": proxy_poster,
                     "videoUrls": video_urls
                 })
         
         print(f"[+] Total Movies extracted: {len(clean_movies)}")
         
+        # ရလာတဲ့ Data ကို File ထဲ သိမ်းမယ်
         output_file = "clean_movies.json"
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(clean_movies, f, indent=2, ensure_ascii=False)
         print(f"[+] Successfully saved to '{output_file}'")
         
-        print("\n--- Sample Extracted Data (First 2 Movies) ---")
+        # Console မှာ ပထမဆုံး Movie ၂ ကားရဲ့ Data ကို ပြသပေးမယ်
+        print("\n" + "="*60)
+        print("SAMPLE OUTPUT (First 2 Movies):")
+        print("="*60)
         for i, movie in enumerate(clean_movies[:2], start=1):
-            print(f"\n{i}. {movie['title']} ({movie['category']})")
-            print(f"   Proxy Poster Link: {movie['posterUrl']}")
+            print(f"\n--- Movie {i} ---")
+            print(json.dumps(movie, indent=2, ensure_ascii=False))
+        print("="*60)
 
     except Exception as e:
         print(f"[-] Error: {e}")
