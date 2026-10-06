@@ -1,5 +1,18 @@
 [
   {
+    "title": "Starbright",
+    "type": "movie",
+    "category": "Adventure, Action",
+    "year": "2026",
+    "posterUrl": "https://images.weserv.nl/?url=https%3A//image.tmdb.org/t/p/w500/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
+    "videoUrls": [
+      {
+        "quality": "1080p",
+        "videoUrl": "https://cdn.kinomm.site/S%2FStarbright%20%282026%29-1080P_KinoMM.mp4"
+      }
+    ]
+  },
+  {
     "title": "Castle Falls",
     "type": "movie",
     "category": "Action, Crime, Thriller, Drama, TV Movie",
