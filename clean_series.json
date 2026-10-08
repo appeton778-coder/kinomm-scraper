@@ -5234,29 +5234,5 @@
         ]
       }
     ]
-  },
-  {
-    "title": "Goldland",
-    "type": "series",
-    "category": "Action & Adventure",
-    "year": "1979",
-    "posterUrl": "https://images.weserv.nl/?url=https%3A//image.tmdb.org/t/p/w500/1lenmToYP1qE4RX44T2KDAktLgV.jpg",
-    "seasons": [
-      {
-        "season_title": "Season 1",
-        "episodes": [
-          {
-            "episode_number": 1,
-            "episode_title": "Episode 1",
-            "video_urls": [
-              {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FG%2FGold%20Land%2FGoldland-S1E1-480P__854x480_x264_.mp4"
-              }
-            ]
-          }
-        ]
-      }
-    ]
   }
 ]
