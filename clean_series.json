@@ -1,5 +1,43 @@
 [
   {
+    "title": "Doctor Of Love",
+    "type": "series",
+    "category": "Drama, Comedy",
+    "year": "2026",
+    "posterUrl": "https://images.weserv.nl/?url=https%3A//image.tmdb.org/t/p/w500/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
+    "seasons": [
+      {
+        "season_title": "Season 1",
+        "episodes": [
+          {
+            "episode_number": 1,
+            "episode_title": "Episode 1",
+            "video_urls": [
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDoctor%20of%20Love%2FDoctor%20of%20Love-S1E1-480P_KinoMM.mp4"
+              }
+            ]
+          },
+          {
+            "episode_number": 2,
+            "episode_title": "Episode 2",
+            "video_urls": [
+              {
+                "quality": "1080p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDoctor%20of%20Love%2FDoctor%20of%20Love-S1E2-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDoctor%20of%20Love%2FDoctor%20of%20Love-S1E2-480P_KinoMM.mp4"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Four Hands Two Sonatas",
     "type": "series",
     "category": "Drama",
@@ -14,12 +52,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E1-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -28,12 +66,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E2-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E2-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E2-480P_KinoMM.mp4"
               }
             ]
           },
@@ -56,12 +94,12 @@
             "episode_title": "Episode 4",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E4-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E4-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E4-480P_KinoMM.mp4"
               }
             ]
           },
@@ -70,12 +108,12 @@
             "episode_title": "Episode 5",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E5-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E5-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E5-480P_KinoMM.mp4"
               }
             ]
           },
@@ -84,12 +122,12 @@
             "episode_title": "Episode 6",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E6-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E6-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E6-480P_KinoMM.mp4"
               }
             ]
           },
@@ -112,12 +150,12 @@
             "episode_title": "Episode 8",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E8-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E8-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFour%20Hands%2C%20Two%20Sonatas%2FFour%20Hands%2C%20Two%20Sonatas-S1E8-480P_KinoMM.mp4"
               }
             ]
           },
@@ -180,12 +218,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Judge%20Returns%2FThe%20Judge%20Returns-S1E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Judge%20Returns%2FThe%20Judge%20Returns-S1E1-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Judge%20Returns%2FThe%20Judge%20Returns-S1E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -346,12 +384,12 @@
             "episode_title": "Episode 14",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Judge%20Returns%2FThe%20Judge%20Returns-S1E14-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Judge%20Returns%2FThe%20Judge%20Returns-S1E14-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Judge%20Returns%2FThe%20Judge%20Returns-S1E14-480P_KinoMM.mp4"
               }
             ]
           }
@@ -374,12 +412,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Love%20Other%20Than%20Yours%2FA%20Love%20Other%20Than%20Yours-S1E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Love%20Other%20Than%20Yours%2FA%20Love%20Other%20Than%20Yours-S1E1-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Love%20Other%20Than%20Yours%2FA%20Love%20Other%20Than%20Yours-S1E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -388,12 +426,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Love%20Other%20Than%20Yours%2FA%20Love%20Other%20Than%20Yours-S1E2-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Love%20Other%20Than%20Yours%2FA%20Love%20Other%20Than%20Yours-S1E2-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Love%20Other%20Than%20Yours%2FA%20Love%20Other%20Than%20Yours-S1E2-480P_KinoMM.mp4"
               }
             ]
           },
@@ -430,12 +468,12 @@
             "episode_title": "Episode 5",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Love%20Other%20Than%20Yours%2FA%20Love%20Other%20Than%20Yours-S1E5-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Love%20Other%20Than%20Yours%2FA%20Love%20Other%20Than%20Yours-S1E5-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Love%20Other%20Than%20Yours%2FA%20Love%20Other%20Than%20Yours-S1E5-480P_KinoMM.mp4"
               }
             ]
           },
@@ -472,12 +510,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDive%20into%20You%2FDive%20into%20You-S1E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDive%20into%20You%2FDive%20into%20You-S1E1-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDive%20into%20You%2FDive%20into%20You-S1E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -500,12 +538,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDive%20into%20You%2FDive%20into%20You-S1E3-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDive%20into%20You%2FDive%20into%20You-S1E3-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDive%20into%20You%2FDive%20into%20You-S1E3-480P_KinoMM.mp4"
               }
             ]
           }
@@ -528,12 +566,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E1-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -556,12 +594,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E3-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E3-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E3-480P_KinoMM.mp4"
               }
             ]
           },
@@ -604,12 +642,12 @@
             "episode_title": "Episode 7",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E7-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E7-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E7-480P_KinoMM.mp4"
               }
             ]
           },
@@ -646,12 +684,12 @@
             "episode_title": "Episode 10",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E10-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E10-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E10-480P_KinoMM.mp4"
               }
             ]
           },
@@ -660,12 +698,12 @@
             "episode_title": "Episode 11",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E11-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E11-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSold%20Out%20on%20You%2FSold%20Out%20on%20You-S1E11-480P_KinoMM.mp4"
               }
             ]
           },
@@ -804,12 +842,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E1-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E1-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E1-720P_KinoMM.mp4"
               }
             ]
           },
@@ -846,12 +884,12 @@
             "episode_title": "Episode 4",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E4-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E4-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E4-480P_KinoMM.mp4"
               }
             ]
           },
@@ -860,12 +898,12 @@
             "episode_title": "Episode 5",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E5-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E5-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E5-480P_KinoMM.mp4"
               }
             ]
           },
@@ -902,12 +940,12 @@
             "episode_title": "Episode 8",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E8-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E8-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E8-480P_KinoMM.mp4"
               }
             ]
           },
@@ -930,12 +968,12 @@
             "episode_title": "Episode 10",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E10-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E10-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E10-480P_KinoMM.mp4"
               }
             ]
           },
@@ -944,12 +982,12 @@
             "episode_title": "Episode 11",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E11-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E11-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E11-480P_KinoMM.mp4"
               }
             ]
           },
@@ -958,12 +996,12 @@
             "episode_title": "Episode 12",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E12-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E12-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FP%2FPerfect%20Crown%2FPerfect%20Crown-S1E12-480P_KinoMM.mp4"
               }
             ]
           }
@@ -986,12 +1024,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E1-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1000,12 +1038,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E2-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E2-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E2-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1014,12 +1052,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E3-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E3-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E3-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1028,12 +1066,12 @@
             "episode_title": "Episode 4",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E4-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E4-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E4-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1042,12 +1080,12 @@
             "episode_title": "Episode 5",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E5-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E5-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E5-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1056,12 +1094,12 @@
             "episode_title": "Episode 6",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E6-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E6-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E6-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1070,12 +1108,12 @@
             "episode_title": "Episode 7",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E7-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E7-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Trial%2FThe%20Trial-S1E7-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1108,12 +1146,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S1E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S1E1-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S1E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1136,12 +1174,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S1E3-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S1E3-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S1E3-720P_KinoMM.mp4"
               }
             ]
           },
@@ -1174,12 +1212,12 @@
             "episode_title": "Episode 6",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S1E6-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S1E6-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S1E6-720P_KinoMM.mp4"
               }
             ]
           }
@@ -1193,12 +1231,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S2E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S2E1-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S2E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1207,12 +1245,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S2E2-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S2E2-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S2E2-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1231,12 +1269,12 @@
             "episode_title": "Episode 4",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S2E4-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S2E4-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMade%20in%20Korea%2FMade%20in%20Korea-S2E4-720P_KinoMM.mp4"
               }
             ]
           },
@@ -1555,12 +1593,12 @@
             "episode_title": "Episode 14",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FL%2FLove%20on%20the%20Menu%2FLove%20on%20the%20Menu-S1E14-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FL%2FLove%20on%20the%20Menu%2FLove%20on%20the%20Menu-S1E14-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FL%2FLove%20on%20the%20Menu%2FLove%20on%20the%20Menu-S1E14-720P_KinoMM.mp4"
               }
             ]
           },
@@ -1583,12 +1621,12 @@
             "episode_title": "Episode 16",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FL%2FLove%20on%20the%20Menu%2FLove%20on%20the%20Menu-S1E16-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FL%2FLove%20on%20the%20Menu%2FLove%20on%20the%20Menu-S1E16-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FL%2FLove%20on%20the%20Menu%2FLove%20on%20the%20Menu-S1E16-720P_KinoMM.mp4"
               }
             ]
           },
@@ -1631,12 +1669,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FC%2FCrew%20Girl%2FCrew%20Girl-S1E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FC%2FCrew%20Girl%2FCrew%20Girl-S1E1-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FC%2FCrew%20Girl%2FCrew%20Girl-S1E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1645,12 +1683,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FC%2FCrew%20Girl%2FCrew%20Girl-S1E2-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FC%2FCrew%20Girl%2FCrew%20Girl-S1E2-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FC%2FCrew%20Girl%2FCrew%20Girl-S1E2-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1659,12 +1697,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FC%2FCrew%20Girl%2FCrew%20Girl-S1E3-480P_%20KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FC%2FCrew%20Girl%2FCrew%20Girl-S1E3-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FC%2FCrew%20Girl%2FCrew%20Girl-S1E3-480P_%20KinoMM.mp4"
               }
             ]
           },
@@ -1673,12 +1711,12 @@
             "episode_title": "Episode 4",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FC%2FCrew%20Girl%2FCrew%20Girl-S1E4-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FC%2FCrew%20Girl%2FCrew%20Girl-S1E4-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FC%2FCrew%20Girl%2FCrew%20Girl-S1E4-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1877,12 +1915,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20X%20Cop-S1E1-720P_KInoMM.mp4"
-              },
-              {
                 "quality": "480p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20X%20Cop-S1E1-480P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20X%20Cop-S1E1-720P_KInoMM.mp4"
               }
             ]
           },
@@ -1891,12 +1929,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E2-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "720p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20X%20Cop-S1E2-720P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E2-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1905,12 +1943,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E3-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "720p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20X%20Cop-S1E3-720P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E3-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1929,12 +1967,12 @@
             "episode_title": "Episode 5",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E5-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "720p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20X%20Cop-S1E5-720P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E5-480P_KinoMM.mp4"
               }
             ]
           },
@@ -1981,12 +2019,12 @@
             "episode_title": "Episode 9",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E9-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "480p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20X%20Cop-S1E9-480P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E9-720P_KinoMM.mp4"
               }
             ]
           },
@@ -1995,12 +2033,12 @@
             "episode_title": "Episode 10",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E10-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "480p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20X%20Cop-S1E10-480P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E10-720P_KinoMM.mp4"
               }
             ]
           },
@@ -2029,12 +2067,12 @@
             "episode_title": "Episode 13",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E13-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20X%20Cop-S1E13-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E13-720P_KinoMM.mp4"
               }
             ]
           },
@@ -2053,12 +2091,12 @@
             "episode_title": "Episode 15",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E15-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "480p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20X%20Cop-S1E15-480P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E15-720P_KinoMM.mp4"
               }
             ]
           },
@@ -2067,12 +2105,12 @@
             "episode_title": "Episode 16",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E16-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "480p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20X%20Cop-S1E16-480P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S1E16-720P_KinoMM.mp4"
               }
             ]
           }
@@ -2086,12 +2124,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S2E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S2E1-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S2E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -2168,12 +2206,12 @@
             "episode_title": "Episode 8",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S2E8-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S2E8-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S2E8-480P_KinoMM.mp4"
               }
             ]
           },
@@ -2230,12 +2268,12 @@
             "episode_title": "Episode 13",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S2E13-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S2E13-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S2E13-480P_KinoMM.mp4"
               }
             ]
           },
@@ -2244,12 +2282,12 @@
             "episode_title": "Episode 14",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S2E14-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S2E14-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFlex%20x%20Cop%2FFlex%20x%20Cop-S2E14-480P_KinoMM.mp4"
               }
             ]
           }
@@ -2272,12 +2310,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E1-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -2286,12 +2324,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E2-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E2-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E2-480P_KinoMM.mp4"
               }
             ]
           },
@@ -2300,12 +2338,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E3-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E3-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E3-480P_KinoMM.mp4"
               }
             ]
           },
@@ -2314,12 +2352,12 @@
             "episode_title": "Episode 4",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E4-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E4-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E4-480P_KinoMM.mp4"
               }
             ]
           },
@@ -2328,12 +2366,12 @@
             "episode_title": "Episode 5",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E5-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E5-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Scandal%2FThe%20Scandal-S1E5-480P_KinoMM.mp4"
               }
             ]
           },
@@ -2657,12 +2695,12 @@
             "episode_title": "Episode 6",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E6-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E6-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E6-720P_KinoMM.mp4"
               }
             ]
           },
@@ -2671,12 +2709,12 @@
             "episode_title": "Episode 7",
             "video_urls": [
               {
-                "quality": "360p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E7-360P_KinoMM.mp4"
-              },
-              {
                 "quality": "720p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You-S1E7-720P_KinoMM.mp4"
+              },
+              {
+                "quality": "360p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E7-360P_KinoMM.mp4"
               }
             ]
           },
@@ -2685,12 +2723,12 @@
             "episode_title": "Episode 8",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E8-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E8-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E8-720P_KinoMM.mp4"
               }
             ]
           },
@@ -2699,12 +2737,12 @@
             "episode_title": "Episode 9",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E9-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E9-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E9-720P_KinoMM.mp4"
               }
             ]
           },
@@ -2713,16 +2751,16 @@
             "episode_title": "Episode 10",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E10-720P_KinoMM.mp4"
+                "quality": "360p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You-S1E10-360P_KinoMM.mp4"
               },
               {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E10-360P_KinoMM.mp4"
               },
               {
-                "quality": "360p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You-S1E10-360P_KinoMM.mp4"
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E10-720P_KinoMM.mp4"
               }
             ]
           },
@@ -2731,12 +2769,12 @@
             "episode_title": "Episode 11",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E11-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E11-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FD%2FDream%20to%20You%2FDream%20to%20You-S1E11-720P_KinoMM.mp4"
               }
             ]
           },
@@ -2769,12 +2807,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E1-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -2783,12 +2821,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E2-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E2-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E2-480P_KinoMM.mp4"
               }
             ]
           },
@@ -2797,12 +2835,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E3-480P%20%5BKinoMM%5D.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E3-1080P%5BKinoMM%5D.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E3-480P%20%5BKinoMM%5D.mp4"
               }
             ]
           },
@@ -2811,12 +2849,12 @@
             "episode_title": "Episode 4",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E4-480P%5BKinoMM%5D.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E4-1080P%5BKinoMM%5D.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E4-480P%5BKinoMM%5D.mp4"
               }
             ]
           },
@@ -2825,12 +2863,12 @@
             "episode_title": "Episode 5",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E5-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E5-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E5-480P_KinoMM.mp4"
               }
             ]
           },
@@ -2853,12 +2891,12 @@
             "episode_title": "Episode 7",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E7-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E7-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E7-480P_KinoMM.mp4"
               }
             ]
           },
@@ -2867,12 +2905,12 @@
             "episode_title": "Episode 8",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E8-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "Unknown",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E8-10080p_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E8-480P_KinoMM.mp4"
               }
             ]
           },
@@ -2901,12 +2939,12 @@
             "episode_title": "Episode 11",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E11-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E11-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FS%2FSee%20You%20at%20Work%20Tomorrow%2FSee%20You%20at%20Work%20Tomorrow%21-S1E11-720P_KinoMM.mp4"
               }
             ]
           },
@@ -2939,16 +2977,16 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2CMy%20Boss_720P_KinoMM.mp4"
-              },
-              {
                 "quality": "480p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2C%20My%20Boss-S1E1_480p_KinoMM.mp4"
               },
               {
                 "quality": "720p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2C%20My%20Boss-S1E1_720p_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2CMy%20Boss_720P_KinoMM.mp4"
               }
             ]
           },
@@ -2957,12 +2995,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2C%20My%20Boss-S1E2_720p_KinoMM.mp4"
-              },
-              {
                 "quality": "480p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2C%20My%20Boss-S1E2_480p_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2C%20My%20Boss-S1E2_720p_KinoMM.mp4"
               }
             ]
           },
@@ -3017,12 +3055,12 @@
             "episode_title": "Episode 6",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2CMy%20Boss_S1E6_720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2C%20My%20Boss-S1E6-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2CMy%20Boss_S1E6_720P_KinoMM.mp4"
               }
             ]
           },
@@ -3041,12 +3079,12 @@
             "episode_title": "Episode 8",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2C%20My%20Boss-S1E8-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2C%20My%20Boss-S1E8-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2C%20My%20Boss-S1E8-720P_KinoMM.mp4"
               }
             ]
           },
@@ -3055,12 +3093,12 @@
             "episode_title": "Episode 9",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2C%20My%20Boss-S1E9-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2C%20My%20Boss-S1E9-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMy%20Bias%2C%20My%20Boss%2FMy%20Bias%2C%20My%20Boss-S1E9-720P_KinoMM.mp4"
               }
             ]
           },
@@ -3127,12 +3165,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E2-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E2-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E2-480P_KinoMM.mp4"
               }
             ]
           },
@@ -3141,12 +3179,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E3-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E3-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E3-480P_KinoMM.mp4"
               }
             ]
           },
@@ -3183,12 +3221,12 @@
             "episode_title": "Episode 6",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E6-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E6-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E6-480P_KinoMM.mp4"
               }
             ]
           },
@@ -3225,12 +3263,12 @@
             "episode_title": "Episode 9",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E9-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E9-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E9-480P_KinoMM.mp4"
               }
             ]
           },
@@ -3239,12 +3277,12 @@
             "episode_title": "Episode 10",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E10-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E10-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FM%2FMousetrap%2FMousetrap-S1E10-480P_KinoMM.mp4"
               }
             ]
           }
@@ -3547,12 +3585,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S1E3-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S1E3-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S1E3-720P_KinoMM.mp4"
               }
             ]
           },
@@ -3575,12 +3613,12 @@
             "episode_title": "Episode 5",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S1E5-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S1E5-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S1E5-720P_KinoMM.mp4"
               }
             ]
           },
@@ -3603,12 +3641,12 @@
             "episode_title": "Episode 7",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S1E7-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S1E7-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S1E7-720P_KinoMM.mp4"
               }
             ]
           },
@@ -3617,12 +3655,12 @@
             "episode_title": "Episode 8",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S1E8-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S1E8-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S1E8-720P_KinoMM.mp4"
               }
             ]
           }
@@ -3636,12 +3674,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S2E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S2E1-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S2E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -3650,12 +3688,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S2E2-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S2E2-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S2E2-480P_KinoMM.mp4"
               }
             ]
           },
@@ -3678,12 +3716,12 @@
             "episode_title": "Episode 4",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S2E4-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S2E4-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FA%20Shop%20for%20Killers%2FA%20Shop%20for%20Killers-S2E4-480P_KinoMM.mp4"
               }
             ]
           },
@@ -3754,12 +3792,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E1-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E1-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E1-720P_KinoMM.mp4"
               }
             ]
           },
@@ -3768,12 +3806,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E2-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E2-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E2-720P_KinoMM.mp4"
               }
             ]
           },
@@ -3782,12 +3820,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E3-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E3-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E3-720P_KinoMM.mp4"
               }
             ]
           },
@@ -3796,12 +3834,12 @@
             "episode_title": "Episode 4",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E4-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E4-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E4-720P_KinoMM.mp4"
               }
             ]
           },
@@ -3810,12 +3848,12 @@
             "episode_title": "Episode 5",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E5-720P_KinoMM%20-%20Copy.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E5-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E5-720P_KinoMM%20-%20Copy.mp4"
               }
             ]
           },
@@ -3824,12 +3862,12 @@
             "episode_title": "Episode 6",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E6-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E6-360P_KinoMM%20-%20Copy.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E6-720P_KinoMM.mp4"
               }
             ]
           },
@@ -3838,12 +3876,12 @@
             "episode_title": "Episode 7",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E7-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E7-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E7-720P_KinoMM.mp4"
               }
             ]
           },
@@ -3852,12 +3890,12 @@
             "episode_title": "Episode 8",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E8-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E8-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E8-720P_KinoMM.mp4"
               }
             ]
           },
@@ -3866,12 +3904,12 @@
             "episode_title": "Episode 9",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E9-720P%20_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E9-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E9-720P%20_KinoMM.mp4"
               }
             ]
           },
@@ -3880,12 +3918,12 @@
             "episode_title": "Episode 10",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E10-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E10-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20Prosecutor%27s%20Proposal%2FThe%20Prosecutor%27s%20Proposal-S1E10-720P_KinoMM.mp4"
               }
             ]
           }
@@ -3972,12 +4010,12 @@
             "episode_title": "Episode 7",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FAgent%20Kim%20Reactivated%2FAgent%20Kim%20Reactivated-S1E7-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FAgent%20Kim%20Reactivated%2FAgent%20Kim%20Reactivated-S1E7-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FAgent%20Kim%20Reactivated%2FAgent%20Kim%20Reactivated-S1E7-480P_KinoMM.mp4"
               }
             ]
           },
@@ -3986,12 +4024,12 @@
             "episode_title": "Episode 8",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FAgent%20Kim%20Reactivated%2FAgent%20Kim%20Reactivated-S1E8-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FAgent%20Kim%20Reactivated%2FAgent%20Kim%20Reactivated-S1E8-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FAgent%20Kim%20Reactivated%2FAgent%20Kim%20Reactivated-S1E8-480P_KinoMM.mp4"
               }
             ]
           },
@@ -4000,12 +4038,12 @@
             "episode_title": "Episode 9",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FAgent%20Kim%20Reactivated%2FAgent%20Kim%20Reactivated-S1E9-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FAgent%20Kim%20Reactivated%2FAgent%20Kim%20Reactivated-S1E9-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FAgent%20Kim%20Reactivated%2FAgent%20Kim%20Reactivated-S1E9-480P_KinoMM.mp4"
               }
             ]
           },
@@ -4014,12 +4052,12 @@
             "episode_title": "Episode 10",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FAgent%20Kim%20Reactivated%2FAgent%20Kim%20Reactivated-S1E10-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FAgent%20Kim%20Reactivated%2FAgent%20Kim%20Reactivated-S1E10-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FA%2FAgent%20Kim%20Reactivated%2FAgent%20Kim%20Reactivated-S1E10-480P_KinoMM.mp4"
               }
             ]
           }
@@ -4042,12 +4080,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E1-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E1-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E1-480P_KinoMM.mp4"
               }
             ]
           },
@@ -4056,12 +4094,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E2-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E2-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E2-480P_KinoMM.mp4"
               }
             ]
           },
@@ -4070,12 +4108,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E3-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E3-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E3-480P_KinoMM.mp4"
               }
             ]
           },
@@ -4084,12 +4122,12 @@
             "episode_title": "Episode 4",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E4-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E4-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E4-480P_KinoMM.mp4"
               }
             ]
           },
@@ -4098,12 +4136,12 @@
             "episode_title": "Episode 5",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E5-480P_kinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E5-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E5-480P_kinoMM.mp4"
               }
             ]
           },
@@ -4112,12 +4150,12 @@
             "episode_title": "Episode 6",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E6-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E6-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E6-480P_KinoMM.mp4"
               }
             ]
           },
@@ -4126,12 +4164,12 @@
             "episode_title": "Episode 7",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E7-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E7-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E7-480P_KinoMM.mp4"
               }
             ]
           },
@@ -4140,12 +4178,12 @@
             "episode_title": "Episode 8",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E8-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E8-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E8-480P_KinoMM.mp4"
               }
             ]
           },
@@ -4154,12 +4192,12 @@
             "episode_title": "Episode 9",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E9-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E9-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E9-480P_KinoMM.mp4"
               }
             ]
           },
@@ -4168,12 +4206,12 @@
             "episode_title": "Episode 10",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E10-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E10-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E10-480P_KinoMM.mp4"
               }
             ]
           },
@@ -4182,12 +4220,12 @@
             "episode_title": "Episode 11",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E11-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E11-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E11-480P_KinoMM.mp4"
               }
             ]
           },
@@ -4196,12 +4234,12 @@
             "episode_title": "Episode 12",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E12-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E12-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FH%2FHonour%2FHonour-S1E12-480P_KinoMM.mp4"
               }
             ]
           }
@@ -4295,11 +4333,11 @@
             "video_urls": [
               {
                 "quality": "1080p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20East%20Palace%2FThe%20East%20Palace-S1E8-1080P__KinoMM.mp4"
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20East%20Palace%2FThe%20East%20Palace-S1E8-1080P_KinoMM.mp4"
               },
               {
                 "quality": "1080p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20East%20Palace%2FThe%20East%20Palace-S1E8-1080P_KinoMM.mp4"
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FT%2FThe%20East%20Palace%2FThe%20East%20Palace-S1E8-1080P__KinoMM.mp4"
               }
             ]
           }
@@ -4310,9 +4348,9 @@
   {
     "title": "Zorro",
     "type": "series",
-    "category": "Western, Action & Adventure",
-    "year": "1957",
-    "posterUrl": "https://images.weserv.nl/?url=https%3A//image.tmdb.org/t/p/w500/1i4HdLMCRfEXLeA6JGTsQj6WU3k.jpg",
+    "category": "Action & Adventure, Drama",
+    "year": "2024",
+    "posterUrl": "https://images.weserv.nl/?url=https%3A//image.tmdb.org/t/p/w500/k6n4fQTbEpPuS5zjMtmVNIsA0wi.jpg",
     "seasons": [
       {
         "season_title": "Season 1",
@@ -4436,12 +4474,12 @@
             "episode_title": "Episode 1",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E1-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E1-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E1-720P_KinoMM.mp4"
               }
             ]
           },
@@ -4450,12 +4488,12 @@
             "episode_title": "Episode 2",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E2-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E2-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E2-720P_KinoMM.mp4"
               }
             ]
           },
@@ -4464,12 +4502,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E3-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E3-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E3-720P_KinoMM.mp4"
               }
             ]
           },
@@ -4478,12 +4516,12 @@
             "episode_title": "Episode 4",
             "video_urls": [
               {
-                "quality": "720p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E4-720P_KinoMM.mp4"
-              },
-              {
                 "quality": "360p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E4-360P_KinoMM.mp4"
+              },
+              {
+                "quality": "720p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E4-720P_KinoMM.mp4"
               }
             ]
           },
@@ -4492,12 +4530,12 @@
             "episode_title": "Episode 5",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E5-480P_KinoMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E5-1080P_KinoMM.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FF%2FFifties%20Professionals%2FFifties%20Professionals-S1E5-480P_KinoMM.mp4"
               }
             ]
           },
@@ -4812,12 +4850,12 @@
             "episode_title": "Episode 3",
             "video_urls": [
               {
-                "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FG%2FGold%20Land%2FGold%20Land-S1E3-480P_KinooMM.mp4"
-              },
-              {
                 "quality": "1080p",
                 "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FG%2FGold%20Land%2FGold%20Land-S1E3-1080P_1920x1080_x264.mp4"
+              },
+              {
+                "quality": "480p",
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FG%2FGold%20Land%2FGold%20Land-S1E3-480P_KinooMM.mp4"
               }
             ]
           },
@@ -4877,11 +4915,11 @@
             "video_urls": [
               {
                 "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FG%2FGold%20Land%2FGold%20Land-S1E9-480P_KinoMM.mp4"
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FG%2FGold%20Land%2FGold%20Land-S1E9-480P_854x480_x264.mp4"
               },
               {
                 "quality": "480p",
-                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FG%2FGold%20Land%2FGold%20Land-S1E9-480P_854x480_x264.mp4"
+                "videoUrl": "https://cdn.kinomm.site/Kino%20MM%20Series%2FG%2FGold%20Land%2FGold%20Land-S1E9-480P_KinoMM.mp4"
               }
             ]
           },
